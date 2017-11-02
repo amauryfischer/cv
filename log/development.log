@@ -3633,3 +3633,65 @@ Processing by BaseController#home as HTML
 Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/menuprincipal" for 127.0.0.1 at 2017-11-02 22:40:09 +0800
+Started GET "/home" for 127.0.0.1 at 2017-11-02 22:40:09 +0800
+Processing by BaseController#home as HTML
+  Rendering home.html.erb
+  Rendered home.html.erb (2.4ms)
+Completed 200 OK in 51ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheet/netdna_font.min.css" for 127.0.0.1 at 2017-11-02 22:40:09 +0800
+Started GET "/home" for 127.0.0.1 at 2017-11-02 22:40:10 +0800
+Processing by BaseController#home as HTML
+  Rendering home.html.erb
+  Rendered home.html.erb (0.8ms)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-02 22:40:11 +0800
+Started GET "/home" for 127.0.0.1 at 2017-11-02 22:40:11 +0800
+Processing by BaseController#home as HTML
+  Rendering home.html.erb
+  Rendered home.html.erb (0.4ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheet/netdna_font.min.css" for 127.0.0.1 at 2017-11-02 22:40:11 +0800
+Started GET "/home" for 127.0.0.1 at 2017-11-02 22:40:11 +0800
+Processing by BaseController#home as HTML
+  Rendering home.html.erb
+  Rendered home.html.erb (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/amauryfischer" for 127.0.0.1 at 2017-11-02 22:40:12 +0800
+Processing by BaseController#amauryfischer as HTML
+  Rendering amauryfischer.html.erb
+  Rendered amauryfischer.html.erb (200.3ms)
+Completed 200 OK in 202ms (Views: 202.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheet/netdna_font.min.css" for 127.0.0.1 at 2017-11-02 22:40:13 +0800
+Started GET "/home" for 127.0.0.1 at 2017-11-02 22:40:13 +0800
+Processing by BaseController#home as HTML
+  Rendering home.html.erb
+  Rendered home.html.erb (0.4ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/amauryfischer" for 127.0.0.1 at 2017-11-02 22:41:49 +0800
+Processing by BaseController#amauryfischer as HTML
+  Rendering amauryfischer.html.erb
+  Rendered amauryfischer.html.erb (215.7ms)
+Completed 200 OK in 229ms (Views: 219.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheet/netdna_font.min.css" for 127.0.0.1 at 2017-11-02 22:41:50 +0800
+Started GET "/home" for 127.0.0.1 at 2017-11-02 22:41:50 +0800
+Processing by BaseController#home as HTML
+  Rendering home.html.erb
+  Rendered home.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
