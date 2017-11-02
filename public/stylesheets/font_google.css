@@ -1,0 +1,256 @@
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Arima Madurai Thin'), local('ArimaMadurai-Thin'), url(https://fonts.gstatic.com/s/arimamadurai/v2/Q0tjl46beRRcUe3RlWWNrTnMcAkBN7BtTBB5QSqJHVU.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Arima Madurai Thin'), local('ArimaMadurai-Thin'), url(https://fonts.gstatic.com/s/arimamadurai/v2/Q0tjl46beRRcUe3RlWWNrRB-NJHuNX6K63Gmw9va82I.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Arima Madurai Thin'), local('ArimaMadurai-Thin'), url(https://fonts.gstatic.com/s/arimamadurai/v2/Q0tjl46beRRcUe3RlWWNrVbSbSTlFXkV59Fq3HK-dnc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Arima Madurai Thin'), local('ArimaMadurai-Thin'), url(https://fonts.gstatic.com/s/arimamadurai/v2/Q0tjl46beRRcUe3RlWWNrY_cJWwiM8-y3kaJoY6Osr0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Arima Madurai ExtraLight'), local('ArimaMadurai-ExtraLight'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4pzSlE-YhByXj5_5kq4b8BY.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Arima Madurai ExtraLight'), local('ArimaMadurai-ExtraLight'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4k5u_QRsa_Nzg6jnhd5Bhk4.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Arima Madurai ExtraLight'), local('ArimaMadurai-ExtraLight'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4oBwYoLk_1z1LF-F9IBF_rs.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Arima Madurai ExtraLight'), local('ArimaMadurai-ExtraLight'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4lYPQCeMY_OwzQauiV3XNbM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Arima Madurai Light'), local('ArimaMadurai-Light'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4mT3GCDhlN3GC_oeeLJpdO0.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Arima Madurai Light'), local('ArimaMadurai-Light'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4oxNHGOUiywERxE-E423vuo.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Arima Madurai Light'), local('ArimaMadurai-Light'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4uM4RpOJzuKtHNl4GxLjiNQ.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Arima Madurai Light'), local('ArimaMadurai-Light'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4qSQyxDdyh5J6kYir5a9n-w.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arima Madurai'), local('ArimaMadurai-Regular'), url(https://fonts.gstatic.com/s/arimamadurai/v2/8fNfThKRw_pr7MwgNdcHiZj6Kxb-XefXz4rja5JUH-U.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arima Madurai'), local('ArimaMadurai-Regular'), url(https://fonts.gstatic.com/s/arimamadurai/v2/8fNfThKRw_pr7MwgNdcHiflRfQEGRdwKEIWJQh05wTw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arima Madurai'), local('ArimaMadurai-Regular'), url(https://fonts.gstatic.com/s/arimamadurai/v2/8fNfThKRw_pr7MwgNdcHiStT3FIzPEO21-0D6YIrY1E.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arima Madurai'), local('ArimaMadurai-Regular'), url(https://fonts.gstatic.com/s/arimamadurai/v2/8fNfThKRw_pr7MwgNdcHiRBCek7ZypUE9OFPg18vTTM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Arima Madurai Medium'), local('ArimaMadurai-Medium'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4uhPZYHzCGsuwkZ2mCa5hQQ.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Arima Madurai Medium'), local('ArimaMadurai-Medium'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4m65ngciYde7vaQrt9ogT2I.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Arima Madurai Medium'), local('ArimaMadurai-Medium'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4gkxZwHzYzQSWYFFXDR4AtY.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Arima Madurai Medium'), local('ArimaMadurai-Medium'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4jeO7UKWTXK_MKhPYQqFnq0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arima Madurai Bold'), local('ArimaMadurai-Bold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4m-w0MG0iqVhuGnlrNY_uGM.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arima Madurai Bold'), local('ArimaMadurai-Bold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4vqHDM9YdIGkX9dUJPiBcPM.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arima Madurai Bold'), local('ArimaMadurai-Bold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4q_W1Q76tWfvaK43UlWgXyc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arima Madurai Bold'), local('ArimaMadurai-Bold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4la9Mi0HhaXJ2SLZ7weUeE8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Arima Madurai ExtraBold'), local('ArimaMadurai-ExtraBold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4vM-Ssv3qQN2u6ieZXhHy8I.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Arima Madurai ExtraBold'), local('ArimaMadurai-ExtraBold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4qeFIzjw9ntqD5DA-h27B9A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Arima Madurai ExtraBold'), local('ArimaMadurai-ExtraBold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4hyLSYgsjTFN1xUSmYKImck.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Arima Madurai ExtraBold'), local('ArimaMadurai-ExtraBold'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4nPUQl5hyrV7lE9fHUTYqEA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* tamil */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Arima Madurai Black'), local('ArimaMadurai-Black'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4i7WUpSCdeT4IYVxE5e3ts4.woff2) format('woff2');
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200B-200D, U+20B9, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Arima Madurai Black'), local('ArimaMadurai-Black'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4ttVUF5M5t61RyvQDBZnKOc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Arima Madurai Black'), local('ArimaMadurai-Black'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4tqr3HoXdAKWCqTMSSEKIF0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Arima Madurai Black'), local('ArimaMadurai-Black'), url(https://fonts.gstatic.com/s/arimamadurai/v2/EsCGNPwBfkMk17-w_DTJ4iPaleyCH5zYojEeyqyTW1Y.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
