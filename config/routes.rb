@@ -4,5 +4,7 @@ Rails.application.routes.draw do
   get '/' => redirect("/home")
   get '/vincentboutry' => "base#vincentboutry"
   get '/amauryfischer' => "base#amauryfischer"
+  get '/datascience' => "datascience#main"
+  get '/checknounouversion' => "nounou#version"
 get "*path" => redirect("/home")
 end

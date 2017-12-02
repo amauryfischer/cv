@@ -1,4 +1,7 @@
+<%= javascript_include_tag "code_jquery.js" %>
 <%= stylesheet_link_tag "amauryfischer.css" %>
+<%= javascript_include_tag "amauryfischer.js" %>
+
 <head>
   <meta charset="utf-8">
   <meta name="robots" content="noindex, nofollow">
@@ -66,12 +69,12 @@
                   <div class="col-xs-12 col-sm-8">
                     <ul class="list-group">
                       <div style="background-color:#f2dede;text-align:center" class="list-group-item bs-callout bg-danger">
-                        I'm in currently in china, do not phone me
+                        <i class="fa fa-lg fa-danger"></i>I'm in currently in china, do not phone me<i class="fa fa-lg fa-danger"></i>
                       </div>
                     </ul>
                     <ul class="list-group">
-                      <li style="text-align:center" class="list-group-item">Amaury Fischer !</li>
-                      <a style="text-align:center;color:#333;" class="list-group-item btn btn-default" href="https://www.utc.fr/">
+                      <li style="text-align:center" class="expand-hover list-group-item">Amaury Fischer !</li>
+                      <a style="text-align:center;color:#333;" class="expand-hover list-group-item btn btn-default" href="https://www.utc.fr/">
                         <div class="row">
                           <div class="col-lg-8">
                             <br>
@@ -83,9 +86,9 @@
 
                         </div>
                       </a>
-                      <li style="text-align:center" class="list-group-item">Contact me at amaufischer@gmail.com</li>
-                      <li onclick="$('#modalWechat').modal();" style="text-align:center" class="list-group-item btn btn-default">Or send me a wechat message id : a73648274</li>
-                      <li style="text-align:center" class="list-group-item">
+                      <li style="text-align:center" class="expand-hover list-group-item">Contact me at amaufischer@gmail.com</li>
+                      <li onclick="$('#modalWechat').modal();" style="text-align:center" class="expand-hover list-group-item btn btn-default">Or send me a wechat message id : a73648274</li>
+                      <li id="phone" style="text-align:center" class="expand-hover list-group-item">
                         <i class="fa fa-phone"></i>
                         Phone number : (+33) 06 49 46 56 83
                       </li>
@@ -437,4 +440,40 @@
       </div>
     </div>
   </div>
+</div>
+<div class="modal fade" id="modalHackathon" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">
+          <span aria-hidden="true">×</span>
+          <span class="sr-only">Close</span>
+        </button>
+        <h3 class="modal-title" id="lineModalLabel">Code QR Wechat</h3>
+      </div>
+      <div class="modal-body">
+
+        <!-- content goes here -->
+        <div class="row">
+          <div class="col-lg-6">
+            <img class="img-responsive" src="images/amauryfischerwechat.jpg">
+          </div>
+          <div class="col-lg-6">
+            <br><br><br>
+            <b style="text-align:center">Feel free to add me on wechat</b>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="btn-group btn-group-justified" role="group" aria-label="group button">
+          <div class="btn-group" role="group">
+            <button type="button" class="btn btn-danger btn-hover-green" data-dismiss="modal" role="button">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="loader">
+  loading...
 </div>

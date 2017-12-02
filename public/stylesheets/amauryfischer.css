@@ -1,6 +1,12 @@
 /* uses font awesome for social icons */
 @import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 
+/*.expand-hover:hover{
+  color: green;
+  width: 70%;
+  height: 70%;
+}*/
+
 .page-header{
   text-align: center;
 }
