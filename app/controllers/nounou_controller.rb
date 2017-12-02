@@ -1,5 +1,5 @@
 class NounouController < ActionController::Base
   def version
-    render json: 10.to_json
+    render json: 11.to_json
   end
 end
