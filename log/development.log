@@ -4781,3 +4781,80 @@ Processing by DatascienceController#main as HTML
 Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:19:59 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (2.4ms)
+Completed 200 OK in 66ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:20:42 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.3ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:20:52 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:21:02 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.3ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:21:07 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.3ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:21:12 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.3ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:24:20 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.7ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:24:23 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:25:01 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.3ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:27:39 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.4ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/fetemamou" for 127.0.0.1 at 2018-05-26 15:29:10 +0200
+Processing by MamouController#index as HTML
+  Rendering mamou.html.erb
+  Rendered mamou.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
